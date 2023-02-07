@@ -12,3 +12,8 @@ height = float(input("What is your heigth?\n"))
 BMI = weigth/(height*height)
 print(name + " " + ",your BMI is " + str(BMI))
 
+name1 = input("What is your name?\n")
+name3 = input("What is your name?\n")
+
+
+#gg
